@@ -1,0 +1,40 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.dabble.store",
+      "nativeLanguage": "en"
+    },
+    "jhipsterVersion": "6.0.1",
+    "applicationType": "monolith",
+    "baseName": "store",
+    "packageName": "com.dabble.store",
+    "packageFolder": "com/dabble/store",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "hazelcast",
+    "enableHibernateCache": true,
+    "websocket": "spring-websocket",
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": false,
+    "buildTool": "gradle",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "M2UzNjIxNjc5M2Q5YTA4NTUwMDVmNjc5NmM2OTc4YjNkNjZiMjJjMzcyY2I5MmU0OTY5ZTYzMGEwNmU1NDkzMmIyNDE0MjJhMDRlNTEzNWNhYWI1NTdlMjlkNWU3ZTI4MWEzOTI3MzU2NWI2ZTZkODE5NmU5ZjQ5ZTczOTQ1ZjQ=",
+    "clientFramework": "angularX",
+    "clientTheme": "flatly",
+    "clientThemeVariant": "dark",
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "testFrameworks": ["protractor"],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": true,
+    "nativeLanguage": "en",
+    "languages": ["en", "de"]
+  }
+}
